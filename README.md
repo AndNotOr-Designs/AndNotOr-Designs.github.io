@@ -24,6 +24,7 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 - Received [Best Hardware Hack](https://devpost.com/software/hand-sanitizer-dispenser) Sponsored by [Digi-Key](https://www.digikey.com/) in the Hack the Northeast: Beyond 2021:
 
 # YouTube Channel
+
 ## Smokeless Fire Pit
 - We wanted a [fire pit](https://www.youtube.com/watch?v=v9P_FbXWCN4&t=492s) in the back yard
 ## Table Saw Cross Cut Sled
@@ -32,8 +33,8 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 - With a small workshop, I needed to be able to move my [bandsaw](https://www.youtube.com/watch?v=qlcIz3ujguE) around easier
 ## Spud's Cage Table Build
 - My daughter was getting a rabbit and we didn't want his cage on the floor so she and I built a table for the cage to go on
-[Part 1](https://www.youtube.com/watch?v=YcJweNnSZt8)
-[Part 2](https://www.youtube.com/watch?v=eCOLIh4wgN0)
+- [Part 1](https://www.youtube.com/watch?v=YcJweNnSZt8)
+- [Part 2](https://www.youtube.com/watch?v=eCOLIh4wgN0)
 ## Treadmill dismantle
 - I have a goal to build my own lathe. I'm going to use parts from this [treadmill](https://www.youtube.com/watch?v=3HDWAFdHwAI) I took apart
 
