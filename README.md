@@ -1,6 +1,7 @@
 ## ![And!Or Designs](AndNotOr100x191.jpg)
 I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that programs both AMX and Crestron control systems. 
 
+---
 
 # Projects
 
