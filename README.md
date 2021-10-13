@@ -1,11 +1,12 @@
-## And!Or Designs
+## ![And!Or Designs](AndNotOr.jpg)
 
 I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that uses both AMX and Crestron programming. 
 
 ## Projects
     # Adafruit's Macropad
     - This was part of an AdaBox shipment and I used it to create an additional keypad for standard keyboard shortcuts
-    - I followed Adafruit's learn guide for the [MACROPAD Hotkeys](https://learn.adafruit.com/macropad-hotkeys):
+    - I followed Adafruit's learn guide for the MACROPAD Hotkeys:
+        (https://learn.adafruit.com/macropad-hotkeys)
     - I made some changes with additional features:
         https://github.com/AndNotOr-Designs/macroPad
     - Still want to get non Ascii text to show on the display, but working with Adafruit's forum to get others to help
