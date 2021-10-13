@@ -25,7 +25,7 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 - Created during Local Hack Day: Build 2021 and Hack the Northeast: Beyond
 - Received [Best Hardware Hack](https://devpost.com/software/hand-sanitizer-dispenser) Sponsored by [Digi-Key](https://www.digikey.com/) in the Hack the Northeast: Beyond 2021:
 
-
+# 
 
 # YouTube Channel
 
