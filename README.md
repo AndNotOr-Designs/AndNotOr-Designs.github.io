@@ -3,31 +3,32 @@
 I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that uses both AMX and Crestron programming. 
 
 ## Projects
+
     # Adafruit's Macropad
-    - This was part of an AdaBox shipment and I used it to create an additional keypad for standard keyboard shortcuts
-    - I followed Adafruit's learn guide for the
-    [MACROPAD Hotkeys](https://learn.adafruit.com/macropad-hotkeys)
-    - I made some changes with additional features:
-        https://github.com/AndNotOr-Designs/macroPad
-    - Still want to get non Ascii text to show on the display, but working with Adafruit's forum to get others to help
+        - This was part of an AdaBox shipment and I used it to create an additional keypad for standard keyboard shortcuts
+        - I followed Adafruit's learn guide for the
+        [MACROPAD Hotkeys](https://learn.adafruit.com/macropad-hotkeys)
+        - I made some changes with additional features:
+            https://github.com/AndNotOr-Designs/macroPad
+        - Still want to get non Ascii text to show on the display, but working with Adafruit's forum to get others to help
     # Chicken Coop sensors
-    - We have 5 chickens in our backyard and we built it right when I was starting with Arduino
-    - Environmental sensors along with some timing
-        https://github.com/AndNotOr-Designs/Coop-Master
-    - This sends information to ThingSpeak making IoT:
-        https://thingspeak.com/channels/605978/private_show
-    - This also talks with the next project for communicating coop door opening in the morning
+        - We have 5 chickens in our backyard and we built it right when I was starting with Arduino
+        - Environmental sensors along with some timing
+            https://github.com/AndNotOr-Designs/Coop-Master
+        - This sends information to ThingSpeak making IoT:
+            https://thingspeak.com/channels/605978/private_show
+        - This also talks with the next project for communicating coop door opening in the morning
     # Chicken Coop door
-    - Controls for opening and closing the coop door so we don't have to go outside during nasty weather
-        https://github.com/AndNotOr-Designs/Coop-Door
-    - This also communicates with ThingSpeak for door status and troubleshooting codes:
-        https://thingspeak.com/channels/1244287/private_show
+        - Controls for opening and closing the coop door so we don't have to go outside during nasty weather
+            https://github.com/AndNotOr-Designs/Coop-Door
+        - This also communicates with ThingSpeak for door status and troubleshooting codes:
+            https://thingspeak.com/channels/1244287/private_show
     # Hand sanitizer dispenser
-    - Created during Local Hack Day: Build 2021 and Hack the Northeast: Beyond
-        https://github.com/AndNotOr-Designs/sanitizerDispenser
-    - Received Best Hardware Hack Sponsored by Digi-Key in the Hack the Northeast: Beyond 2021:
-        https://devpost.com/software/hand-sanitizer-dispenser
-        Sponsor: https://www.digikey.com/
+        - Created during Local Hack Day: Build 2021 and Hack the Northeast: Beyond
+            https://github.com/AndNotOr-Designs/sanitizerDispenser
+        - Received Best Hardware Hack Sponsored by Digi-Key in the Hack the Northeast: Beyond 2021:
+            https://devpost.com/software/hand-sanitizer-dispenser
+            Sponsor: https://www.digikey.com/
 
 ## YouTube Channel
     # Smokeless Fire Pit
