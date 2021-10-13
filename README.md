@@ -2,6 +2,12 @@
 
 I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that uses both AMX and Crestron programming. 
 
+[Markdown Guide](https://www.markdownguide.org)
+
+### Link
+
+[Markdown Guide](https://www.markdownguide.org)
+
 ## Projects
 
     # Adafruit's Macropad
