@@ -47,3 +47,5 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 ## Treadmill dismantle
 - I have a goal to build my own lathe. I'm going to use parts from this [treadmill](https://www.youtube.com/watch?v=3HDWAFdHwAI) I took apart
 
+---
+[email me](mailto:arduino@liskfamily.com)
