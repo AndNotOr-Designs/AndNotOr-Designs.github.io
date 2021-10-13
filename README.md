@@ -48,4 +48,8 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 - I have a goal to build my own lathe. I'm going to use parts from this [treadmill](https://www.youtube.com/watch?v=3HDWAFdHwAI) I took apart
 
 ---
-[email me](mailto:arduino@liskfamily.com)
+# Follow And!Or
+[Email](mailto:arduino@liskfamily.com)
+[Twitter](https://twitter.com/andnotordesigns)
+[Personal LinkedIn Account](https://www.linkedin.com/in/travisalisk/)
+
