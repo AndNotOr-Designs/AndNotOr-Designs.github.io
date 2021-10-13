@@ -1,4 +1,5 @@
-## ![And!Or Designs](AndNotOr100x191.jpg) I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that uses both AMX and Crestron programming. 
+## ![And!Or Designs](AndNotOr100x191.jpg)
+I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual integrator that programs both AMX and Crestron control systems. 
 
 
 # Projects
@@ -23,6 +24,8 @@
 - [Touchless hand sanitizer dispenser](https://github.com/AndNotOr-Designs/sanitizerDispenser)
 - Created during Local Hack Day: Build 2021 and Hack the Northeast: Beyond
 - Received [Best Hardware Hack](https://devpost.com/software/hand-sanitizer-dispenser) Sponsored by [Digi-Key](https://www.digikey.com/) in the Hack the Northeast: Beyond 2021:
+
+
 
 # YouTube Channel
 
