@@ -24,7 +24,7 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 ## Hand sanitizer dispenser
 - [Touchless hand sanitizer dispenser](https://github.com/AndNotOr-Designs/sanitizerDispenser)
 - Created during Local Hack Day: Build 2021 and Hack the Northeast: Beyond
-- Received [Best Hardware Hack](https://devpost.com/software/hand-sanitizer-dispenser) Sponsored by [Digi-Key](https://www.digikey.com/) in the Hack the Northeast: Beyond 2021:
+- Received [Best Hardware Hack](https://devpost.com/software/hand-sanitizer-dispenser) Sponsored by [Digi-Key](https://www.digikey.com/) in the Hack the Northeast: Beyond 2021
 
 ---
 
@@ -49,8 +49,8 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 
 ---
 # Follow And!Or
-[![Email](email.png)](mailto:arduino@liskfamily.com)
-[![Twitter](twitter.png)](https://twitter.com/andnotordesigns)
-[![GitHub](github.png)](https://github.com/AndNotOr-Designs)
-[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/travisalisk/)
+[![Email](email.png)](mailto:arduino@liskfamily.com){:target="_blank"}
+[![Twitter](twitter.png)](https://twitter.com/andnotordesigns){:target="_blank"}
+[![GitHub](github.png)](https://github.com/AndNotOr-Designs){:target="_blank"}
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/travisalisk/){:target="_blank"}
 
