@@ -33,8 +33,8 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 - With a small workshop, I needed to be able to move my [bandsaw](https://www.youtube.com/watch?v=qlcIz3ujguE) around easier
 ## Spud's Cage Table Build
 - My daughter was getting a rabbit and we didn't want his cage on the floor so she and I built a table for the cage to go on
-- [Part 1](https://www.youtube.com/watch?v=YcJweNnSZt8)
-- [Part 2](https://www.youtube.com/watch?v=eCOLIh4wgN0)
+1. [Part 1](https://www.youtube.com/watch?v=YcJweNnSZt8)
+2. [Part 2](https://www.youtube.com/watch?v=eCOLIh4wgN0)
 ## Treadmill dismantle
 - I have a goal to build my own lathe. I'm going to use parts from this [treadmill](https://www.youtube.com/watch?v=3HDWAFdHwAI) I took apart
 
