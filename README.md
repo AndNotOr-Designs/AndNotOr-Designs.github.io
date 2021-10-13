@@ -49,8 +49,8 @@ I'm a hobbyist that dabbles in arduino and python. By day I'm an Audio Visual in
 
 ---
 # Follow And!Or
-![Email](email.png)[](mailto:arduino@liskfamily.com)
-![Twitter](twitter.png)[](https://twitter.com/andnotordesigns)
-![GitHub](github.png)[](https://github.com/AndNotOr-Designs)
-![LinkedIn](linkedin.png)[](https://www.linkedin.com/in/travisalisk/)
+[![Email](email.png)](mailto:arduino@liskfamily.com)
+[![Twitter](twitter.png)](https://twitter.com/andnotordesigns)
+[![GitHub](github.png)](https://github.com/AndNotOr-Designs)
+[![LinkedIn](linkedin.png)](https://www.linkedin.com/in/travisalisk/)
 
